@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NutriTrack</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="title_activity_questionnaire">QuestionnaireActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_persona_dialog">PersonaDialog</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="title_activity_data">data</string>
+    <string name="title_activity_nutri_track_bottom">NutriTrackBottomActivity</string>
+    <string name="title_activity_insights">InsightsActivity</string>
+    <string name="title_activity_util">util</string>
+    <string name="title_activity_models">Models</string>
+    <string name="title_activity_nav_graph">NavGraph</string>
+    <string name="title_activity_nutri_track_bottom_navigation">NutriTrackBottomNavigation</string>
+</resources>
